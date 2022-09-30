@@ -32,7 +32,7 @@ pipeline {
 			echo 'job was built successfully'
 		}
 		failure {
-			echo 'job was not build..it was failed'
+			echo 'job was not build..it was dilip'
 		}
 	}
 }
